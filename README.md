@@ -1,5 +1,5 @@
-### gestion
+### Gestion
 
 ---
 
-comprobación de commit
+Actas de cada reunión y prácticas
