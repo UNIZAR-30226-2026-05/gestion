@@ -8,7 +8,7 @@ https://docs.google.com/spreadsheets/d/15k_GPh9HT-Bw_tiOVBlRO2eMC-Nv1tUwGtNSycAb
 Esturctura:
 - Actas Reuniones: Documentos con lo tratado en cada reunión
 - Trabajo Prácticas: Información relativa al proyecto tratado en cada práctica
-- Diseños: Diseños y bocetos para el juego
+- Sprites: Sprites y fondos para el juego
 
 IMPORTANTE - FRONT ESCRITORIO Y WEB:
     Todos los elementos gráfios son comunes y se encuentran en la carpeta sprites
