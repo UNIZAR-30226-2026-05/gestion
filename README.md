@@ -13,5 +13,4 @@ Esturctura:
 IMPORTANTE - FRONT ESCRITORIO Y WEB:
     Todos los elementos gráfios son comunes y se encuentran en la carpeta sprites
     No hay que diseñar nada con css. Si falta algo pedirmelo (Lorién)
-
     Cada proyecto los tiene que copiar en su carpeta de assets, estan aqui para descargarlos y copiarlos
